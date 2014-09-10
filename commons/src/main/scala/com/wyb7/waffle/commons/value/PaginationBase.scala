@@ -1,6 +1,6 @@
 package com.wyb7.waffle.commons.value
 
-import reflect.BeanProperty
+import scala.beans.BeanProperty
 
 /**
  * User: bin

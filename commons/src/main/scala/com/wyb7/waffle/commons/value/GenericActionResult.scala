@@ -1,7 +1,7 @@
 package com.wyb7.waffle.commons.value
 
 //import net.liftweb.json.{NoTypeHints, Serialization}
-import reflect.BeanProperty
+import scala.beans.BeanProperty
 
 /**
  * generic result type, with message and data.
